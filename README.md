@@ -19,3 +19,7 @@ Group Collaboration - I developed skills to efficiently work together with a gro
 
 This project helped me get comfortable building real Android apps—from front-end design to back-end logic. I walked away with a much better understanding of how to structure code, handle user input, and think through app features from both a developer and user perspective. On top of that, it helped me learn that communication between project members is a very important part of making things efficient.
 
+--------
+
+To run the program, make sure the device you are running it on is running Android 15+, and API 35.0+
+
